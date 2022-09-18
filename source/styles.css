@@ -5,8 +5,9 @@ h1 {
   display: block;
   font-weight: bold;
   color: blue;
+  background-color: coral;
 }
 
 body {
-  background-color: rgb(247, 91, 35);
+  background-color: coral;
 }
